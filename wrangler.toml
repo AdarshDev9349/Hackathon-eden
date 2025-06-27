@@ -1,0 +1,10 @@
+# Cloudflare Workers configuration (if you add Workers later)
+name = "eden-hackathon-frontend"
+compatibility_date = "2024-12-01"
+
+# For static sites deployed to Pages, most config is handled in the Pages dashboard
+# This file is mainly for Workers/Functions if you add them later
+
+# Environment variables (if needed for Workers)
+# [vars]
+# NEXT_PUBLIC_API_URL = "your-api-url"

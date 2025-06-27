@@ -1,0 +1,7 @@
+{
+  "name": "eden-hackathon-frontend",
+  "compatibility_date": "2025-06-27",
+  "assets": {
+    "directory": "./out"
+  }
+}
