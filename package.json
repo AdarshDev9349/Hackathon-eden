@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:cloudflare": "next build && echo 'Build complete! Upload the /out folder to Cloudflare Pages'",
     "start": "next start",
     "lint": "next lint"
   },
